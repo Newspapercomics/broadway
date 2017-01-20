@@ -16,6 +16,7 @@ div {
   font-size: 18px;
   color: white;
   text-decoration: underline;
+  display: block;
 }
 h2 {
   font-family: Helvetica;
